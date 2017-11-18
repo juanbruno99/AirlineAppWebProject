@@ -63,7 +63,7 @@
 									<span class="input-group-addon"><i class="fa fa-users fa" aria-hidden="true"></i></span>
 									<select class="form-control" name="gender" id="gender"  placeholder="Enter Gender">
 										<option value="male">Male</option>
-										<option value="female">female</option>
+										<option value="female">Female</option>
 									</select>
 								</div>
 							</div>
